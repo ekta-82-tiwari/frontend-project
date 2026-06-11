@@ -25,7 +25,6 @@ dashboard-project/
 ├── style.css
 ├── assets/
 │   ├── images/
-│   └── icons/
 └── README.md
 
 ## How to Run
