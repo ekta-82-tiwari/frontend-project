@@ -4,6 +4,9 @@
 
 This is a modern Dashboard Website created using HTML and CSS. The dashboard provides a clean user interface for displaying data, navigation menus, statistics, and user information.
 
+## Demo 
+<img width="1897" height="876" alt="image" src="https://github.com/user-attachments/assets/c84af60a-9a39-4cff-a4d5-7d29001b7850" />
+
 ## Features
 
 * Responsive Dashboard Layout
