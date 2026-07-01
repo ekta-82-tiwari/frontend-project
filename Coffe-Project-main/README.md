@@ -19,7 +19,6 @@ This is a simple Coffee Shop Website created using HTML and CSS. The website pro
 * CSS3
 
 ## Project Structure
-
 coffee-shop/
 ├── index.html
 ├── style.css
