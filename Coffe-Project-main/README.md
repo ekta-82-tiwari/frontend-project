@@ -20,10 +20,10 @@ This is a simple Coffee Shop Website created using HTML and CSS. The website pro
 
 ## Project Structure
 coffee-shop/
-├── index.html
-├── style.css
-├── images/
-└── README.md
+  ├── index.html
+  ├── style.css
+  ├── images/
+  └── README.md
 
 ## How to Run
 
